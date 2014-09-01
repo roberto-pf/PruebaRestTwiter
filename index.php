@@ -3,10 +3,10 @@
 
 	/** Set access tokens here - see: https://dev.twitter.com/apps/ **/ 
     $settings = array(
-        'oauth_access_token' => "2310794311-Mf0T5gnFqgfp1MhkIH3KGp0ByilNV4dDBt5K7Fd",
-        'oauth_access_token_secret' => "QWyAch9poVV0UHd6rC7cuyW8K4Gq4qAyntYfFDAs3IHdi",
-        'consumer_key' => "SE0uQ7eeP8Y3uY6v647hA3nMK",
-        'consumer_secret' => "szEbdtgsUrwpzMgxx4Ly21RgRoqEtR5OQkKrDHOMBXPaDRzzBw"
+        'oauth_access_token' => "",
+        'oauth_access_token_secret' => "",
+        'consumer_key' => "",
+        'consumer_secret' => ""
     );
 		
 		
